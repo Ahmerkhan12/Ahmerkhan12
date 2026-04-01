@@ -132,7 +132,7 @@ I’m a software engineer focused on building **scalable, production-ready appli
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: www.linkedin.com/in/ahmer-khan-8b895a230
-* 📧 Email: (khanahmer526@gmail.com)
+* 📧 Email: khanahmer526@gmail.com
 * 🌐 Portfolio: (Add if you have)
 
 ---
