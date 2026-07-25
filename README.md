@@ -29,6 +29,7 @@ I’m a software engineer focused on building **scalable, production-ready appli
 ### 🌐 Frontend
 
 * React.js
+* Next.js
 * HTML
 * CSS
 * Tailwind CSS
